@@ -13,7 +13,7 @@ This project was to add code to a time scheduler to finish the 9 to 5 clander di
 
 ## Depolyed Viewing
 
-Asignment link: https://kawaikimono.github.io/Lesson-5-Scheduler/
+Asignment link: https://kawaikimono.github.io/9-to-5-Scheduler/
 
 [Website preview](./05-third-party-apis-homework-demo.gif)
 
