@@ -1,4 +1,4 @@
-# Lesson-5-Challenge-Scheduler
+# 9-to-5-Scheduler
 
 
 This project was to add code to a time scheduler to finish the 9 to 5 clander displaying the current day and time and tracking current time on the calender.
