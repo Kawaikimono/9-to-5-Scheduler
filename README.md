@@ -1,9 +1,8 @@
 # Lesson-5-Challenge-Scheduler
 
-## Description
-```
+
 This project was to add code to a time scheduler to finish the 9 to 5 clander displaying the current day and time and tracking current time on the calender.
-```
+
 
 ## Requirement Completed:
 - Current day is displayed on opening page
